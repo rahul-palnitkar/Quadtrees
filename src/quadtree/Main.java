@@ -1,4 +1,9 @@
+
 package quadtree;
+
+/**
+ * Javadoc
+ */
 
 public class Main {
 
